@@ -1,0 +1,39 @@
+{
+ "content": [
+  {
+   "id": "1",
+   "isValid": "",
+   "slogan": "MĪLESTĪBA GLĀBS PASAULI",
+   "type": "Moderated Slogan",
+   "us": false
+  },
+  {
+   "id": "2",
+   "isValid": "",
+   "slogan": "PASAULE UN MĪLESTĪBA",
+   "type": "Moderated Slogan",
+   "us": false
+  },
+  {
+   "id": "3",
+   "isValid": "",
+   "slogan": "TAVS SMAIDS TIK SKAISTS UN NEMIRSTOŠS",
+   "type": "Moderated Slogan",
+   "us": false
+  },
+  {
+   "id": "4",
+   "isValid": "",
+   "slogan": "ESI LAIPNS!",
+   "type": "Moderated Slogan",
+   "us": false
+  },
+  {
+   "id": "5",
+   "isValid": "",
+   "slogan": "PĒDĒJAIS SKŪPSTS",
+   "type": "Moderated Slogan",
+   "us": false
+  }
+ ]
+}
