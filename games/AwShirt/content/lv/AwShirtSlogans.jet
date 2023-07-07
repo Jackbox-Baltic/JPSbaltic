@@ -1,0 +1,1747 @@
+{
+    "content": [
+      {
+        "id": "40402_lv-LV",
+        "isValid": "",
+        "suggestion": "Aizver muti",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40534_lv-LV",
+        "isValid": "",
+        "suggestion": "Es esmu tik nekaunīga!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40535_lv-LV",
+        "isValid": "",
+        "suggestion": "Tas pasaules gals",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40536_lv-LV",
+        "isValid": "",
+        "suggestion": "Mmmmmm, sālti",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40538_lv-LV",
+        "isValid": "",
+        "suggestion": "Mīļumiņ, nāc padzert ūdentiņ",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40539_lv-LV",
+        "isValid": "",
+        "suggestion": "Pasaki man, ka esmu skaists!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40540_lv-LV",
+        "isValid": "",
+        "suggestion": "Es nevaru skatienu atraut",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40541_lv-LV",
+        "isValid": "",
+        "suggestion": "Muļķe sirds",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40542_lv-LV",
+        "isValid": "",
+        "suggestion": "PERSONĪBAS REKORDS",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40543_lv-LV",
+        "isValid": "",
+        "suggestion": "Vai tev patīk to, ko tu redzi?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40544_lv-LV",
+        "isValid": "",
+        "suggestion": "Visa pasaule man paversies pie kājām",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40545_lv-LV",
+        "isValid": "",
+        "suggestion": "Es esmu gatavs",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40546_lv-LV",
+        "isValid": "",
+        "suggestion": "Laba slava sniedziņam",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40547_lv-LV",
+        "isValid": "",
+        "suggestion": "Brīdi nesteidzies",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40548_lv-LV",
+        "isValid": "",
+        "suggestion": "Nejautā",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40549_lv-LV",
+        "isValid": "",
+        "suggestion": "Es sapinos meistarībā",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40550_lv-LV",
+        "isValid": "",
+        "suggestion": "Vai mēs jau esam pabeiguši?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40551_lv-LV",
+        "isValid": "",
+        "suggestion": "Es esmu lietuvietis",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40552_lv-LV",
+        "isValid": "",
+        "suggestion": "Dziesmu raksti 2022",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40553_lv-LV",
+        "isValid": "",
+        "suggestion": "Es balsoju par Zaļo Partiju",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40554_lv-LV",
+        "isValid": "",
+        "suggestion": "Dejo un dziedi, skūpsti un mīli!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40555_lv-LV",
+        "isValid": "",
+        "suggestion": "Aizņemts",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40556_lv-LV",
+        "isValid": "",
+        "suggestion": "Es labprātāk makšķerētu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40557_lv-LV",
+        "isValid": "",
+        "suggestion": "Es nevaru. Es vienkārši nevaru",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40558_lv-LV",
+        "isValid": "",
+        "suggestion": "Es sirds Jelgava",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40559_lv-LV",
+        "isValid": "",
+        "suggestion": "Tukāvīrs Tukāvīrs",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40560_lv-LV",
+        "isValid": "",
+        "suggestion": "Man pietiek",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40561_lv-LV",
+        "isValid": "",
+        "suggestion": "Nav tādas vietas kā mājās",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40562_lv-LV",
+        "isValid": "",
+        "suggestion": "Dzenā šo varavīksni",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40563_lv-LV",
+        "isValid": "",
+        "suggestion": "Ēd ar karotīti",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40564_lv-LV",
+        "isValid": "",
+        "suggestion": "Jaunā lielā sprādziena teorija",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40565_lv-LV",
+        "isValid": "",
+        "suggestion": "Čakls kā skudra",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40566_lv-LV",
+        "isValid": "",
+        "suggestion": "Man trīsdesmit gadu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40567_lv-LV",
+        "isValid": "",
+        "suggestion": "Slikta diena",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40568_lv-LV",
+        "isValid": "",
+        "suggestion": "Es esmu vegāns",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40569_lv-LV",
+        "isValid": "",
+        "suggestion": "Es tos visus noķēru!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40570_lv-LV",
+        "isValid": "",
+        "suggestion": "Tiekamies piena svētkos!",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40571_lv-LV",
+        "isValid": "",
+        "suggestion": "Urrā!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40572_lv-LV",
+        "isValid": "",
+        "suggestion": "Es esmu liels puika",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40573_lv-LV",
+        "isValid": "",
+        "suggestion": "Vienkārši pagriezieties",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40574_lv-LV",
+        "isValid": "",
+        "suggestion": "Domā laimīgas domas",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40575_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāpēc mēs nevaram būt draugi?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40576_lv-LV",
+        "isValid": "",
+        "suggestion": "Ooooh tas ir pikanti",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40577_lv-LV",
+        "isValid": "",
+        "suggestion": "Ēnains",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40578_lv-LV",
+        "isValid": "",
+        "suggestion": "Vai tu proti glabāt noslēpumus?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40579_lv-LV",
+        "isValid": "",
+        "suggestion": "Cukurs un garšvielas",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40581_lv-LV",
+        "isValid": "",
+        "suggestion": "Laba diena tev",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40582_lv-LV",
+        "isValid": "",
+        "suggestion": "Miers ar tevi",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40583_lv-LV",
+        "isValid": "",
+        "suggestion": "Neapstāājies, kamēr nav pabeigts darbs",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40584_lv-LV",
+        "isValid": "",
+        "suggestion": "Esi uzmanīgs tur",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40585_lv-LV",
+        "isValid": "",
+        "suggestion": "Hakuna matata",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40586_lv-LV",
+        "isValid": "",
+        "suggestion": "Drīz atgriezīšos",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40587_lv-LV",
+        "isValid": "",
+        "suggestion": "Tagad tas ir relaksējoši",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40588_lv-LV",
+        "isValid": "",
+        "suggestion": "Lepojas kā vārna ar pāva spalvām",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40589_lv-LV",
+        "isValid": "",
+        "suggestion": "Vēl tikai piecas minūtītes",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40590_lv-LV",
+        "isValid": "",
+        "suggestion": "Es mīlu nakts dzīvi",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40591_lv-LV",
+        "isValid": "",
+        "suggestion": "Ej mājā",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40592_lv-LV",
+        "isValid": "",
+        "suggestion": "Man nav kauns",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40593_lv-LV",
+        "isValid": "",
+        "suggestion": "Dzer, kamēr nodzer prātu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40594_lv-LV",
+        "isValid": "",
+        "suggestion": "Es pamodos šādi.",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40595_lv-LV",
+        "isValid": "",
+        "suggestion": "Tu dzīvo tikai vienreiz",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40597_lv-LV",
+        "isValid": "",
+        "suggestion": "Pilsēta izaugsmei!",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40598_lv-LV",
+        "isValid": "",
+        "suggestion": "Es esmu tētuka mazā princesīte",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40600_lv-LV",
+        "isValid": "",
+        "suggestion": "Kaupēn, mans mīļais",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40601_lv-LV",
+        "isValid": "",
+        "suggestion": "Es esmu ar stulbu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40603_lv-LV",
+        "isValid": "",
+        "suggestion": "Zili brīnumi",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40606_lv-LV",
+        "isValid": "",
+        "suggestion": "Acis asarām izmazgājis",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40607_lv-LV",
+        "isValid": "",
+        "suggestion": "Es esmu septītajās debesīs",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40608_lv-LV",
+        "isValid": "",
+        "suggestion": "Nākotne pieder sievietēm",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40609_lv-LV",
+        "isValid": "",
+        "suggestion": "Balso vai mirsti",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40610_lv-LV",
+        "isValid": "",
+        "suggestion": "Pārāk svētīti, lai būtu stresā",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40611_lv-LV",
+        "isValid": "",
+        "suggestion": "Nom nom nom",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40612_lv-LV",
+        "isValid": "",
+        "suggestion": "Es darīju, ko varēju",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40613_lv-LV",
+        "isValid": "",
+        "suggestion": "Neienīsti spēlētāju, ienīsti spēli",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40614_lv-LV",
+        "isValid": "",
+        "suggestion": "Ko tu te dari?!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40615_lv-LV",
+        "isValid": "",
+        "suggestion": "Nerunā ar mani, kamēr papīru es tinu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40616_lv-LV",
+        "isValid": "",
+        "suggestion": "Tu nevari mani atļauties",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40617_lv-LV",
+        "isValid": "",
+        "suggestion": "Piecus gadus vecs bērns",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40618_lv-LV",
+        "isValid": "",
+        "suggestion": "Vai es nožagoju?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40619_lv-LV",
+        "isValid": "",
+        "suggestion": "Mans pēdējais atā",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40620_lv-LV",
+        "isValid": "",
+        "suggestion": "Norādi man vīna pagrabu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40621_lv-LV",
+        "isValid": "",
+        "suggestion": "Tu esi dusmīgs?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40622_lv-LV",
+        "isValid": "",
+        "suggestion": "Es brīvi pārvaldu sarkasmu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40624_lv-LV",
+        "isValid": "",
+        "suggestion": "Es burtiski mirstu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40625_lv-LV",
+        "isValid": "",
+        "suggestion": "Visas jūtas",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40626_lv-LV",
+        "isValid": "",
+        "suggestion": "Komandas mērķi",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40627_lv-LV",
+        "isValid": "",
+        "suggestion": "Turpini meklēt",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40628_lv-LV",
+        "isValid": "",
+        "suggestion": "Jau kilometri simts un es jau esmu sirms",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40629_lv-LV",
+        "isValid": "",
+        "suggestion": "Teica neviens nekad...",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40630_lv-LV",
+        "isValid": "",
+        "suggestion": "Es pat nevaru",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40631_lv-LV",
+        "isValid": "",
+        "suggestion": "Manas acis ir šeit augšā",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40635_lv-LV",
+        "isValid": "",
+        "suggestion": "Mans tēvs var pārspēt tavu tēvu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40636_lv-LV",
+        "isValid": "",
+        "suggestion": "Es gribu visu sieru!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40637_lv-LV",
+        "isValid": "",
+        "suggestion": "Pieaugt ir grūti",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40638_lv-LV",
+        "isValid": "",
+        "suggestion": "Ja tu nespēj tikt galā ar mani sliktākajā brīdī, tu neesi pelnījis mani labākajā brīdī",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40639_lv-LV",
+        "isValid": "",
+        "suggestion": "Un tu esi???",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40640_lv-LV",
+        "isValid": "",
+        "suggestion": "#1 sliktais zēns",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40642_lv-LV",
+        "isValid": "",
+        "suggestion": "Salāti ir gļēvulīšiem",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40643_lv-LV",
+        "isValid": "",
+        "suggestion": "Pievienojies revolūcijai",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40645_lv-LV",
+        "isValid": "",
+        "suggestion": "Es tagad tavs dievs!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40647_lv-LV",
+        "isValid": "",
+        "suggestion": "Atkāpies",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40648_lv-LV",
+        "isValid": "",
+        "suggestion": "Mašīnā bērns",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40649_lv-LV",
+        "isValid": "",
+        "suggestion": "Liels puika",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40650_lv-LV",
+        "isValid": "",
+        "suggestion": "Uzmanību - alnis uz ceļa",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40651_lv-LV",
+        "isValid": "",
+        "suggestion": "Neviens nav ideāls",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40652_lv-LV",
+        "isValid": "",
+        "suggestion": "Piedod mīļotā!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40653_lv-LV",
+        "isValid": "",
+        "suggestion": "Esi mierīgs un turpini savu ceļu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40654_lv-LV",
+        "isValid": "",
+        "suggestion": "Viss notiek kāda iemesla dēļ",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40655_lv-LV",
+        "isValid": "",
+        "suggestion": "Pārsteidzoši",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40656_lv-LV",
+        "isValid": "",
+        "suggestion": "Mana vaina",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40657_lv-LV",
+        "isValid": "",
+        "suggestion": "Ups piedod",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40658_lv-LV",
+        "isValid": "",
+        "suggestion": "Tikai Dievs var mani tiesāt",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40659_lv-LV",
+        "isValid": "",
+        "suggestion": "Nav dūmu bez uguns",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40661_lv-LV",
+        "isValid": "",
+        "suggestion": "Es mīlu savu pūdeli",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40662_lv-LV",
+        "isValid": "",
+        "suggestion": "Cūkas laime",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40663_lv-LV",
+        "isValid": "",
+        "suggestion": "Es cītīgi strādāju, es cītīgi spēlēju",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40664_lv-LV",
+        "isValid": "",
+        "suggestion": "Uzticības fonda bērns",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40665_lv-LV",
+        "isValid": "",
+        "suggestion": "Gatavs kļūt sviedrainam",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40666_lv-LV",
+        "isValid": "",
+        "suggestion": "Un zirgs, uz kura tu ieradies",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40667_lv-LV",
+        "isValid": "",
+        "suggestion": "Padari to labāku",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40668_lv-LV",
+        "isValid": "",
+        "suggestion": "Labi labi labi",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40669_lv-LV",
+        "isValid": "",
+        "suggestion": "Jauku dienu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40670_lv-LV",
+        "isValid": "",
+        "suggestion": "Bezmaksas apskāvieni",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40672_lv-LV",
+        "isValid": "",
+        "suggestion": "Viss tiek kontrolēts",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40673_lv-LV",
+        "isValid": "",
+        "suggestion": "Es esmu matemātiķis",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40674_lv-LV",
+        "isValid": "",
+        "suggestion": "100% dabīga liellopu gaļa",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40675_lv-LV",
+        "isValid": "",
+        "suggestion": "Guli, mana labā",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40676_lv-LV",
+        "isValid": "",
+        "suggestion": "Pirmdienu gadījums",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40677_lv-LV",
+        "isValid": "",
+        "suggestion": "Tu nevari salabot stulbs",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40678_lv-LV",
+        "isValid": "",
+        "suggestion": "Ķersimies pie lietas",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40679_lv-LV",
+        "isValid": "",
+        "suggestion": "Uz ko tu skaties?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40681_lv-LV",
+        "isValid": "",
+        "suggestion": "Pankūkdancis",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40682_lv-LV",
+        "isValid": "",
+        "suggestion": "Es sirds Mammu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40683_lv-LV",
+        "isValid": "",
+        "suggestion": "Četri balti krekli",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40684_lv-LV",
+        "isValid": "",
+        "suggestion": "Visi ir stulbi, izņemot mani",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40685_lv-LV",
+        "isValid": "",
+        "suggestion": "Es biju varens! Un būšu!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40686_lv-LV",
+        "isValid": "",
+        "suggestion": "Priecīgus Ziemassvētkus, stulbs",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40687_lv-LV",
+        "isValid": "",
+        "suggestion": "Man nav lietošanas pamācība",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40688_lv-LV",
+        "isValid": "",
+        "suggestion": "Kas jauns, kaķenīt?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40690_lv-LV",
+        "isValid": "",
+        "suggestion": "Jautājumi bez atbildēm",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40692_lv-LV",
+        "isValid": "",
+        "suggestion": "Noskūpsti mani",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40693_lv-LV",
+        "isValid": "",
+        "suggestion": "Lielās mammas māja",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40694_lv-LV",
+        "isValid": "",
+        "suggestion": "Kad pieslēdz apkuri?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40695_lv-LV",
+        "isValid": "",
+        "suggestion": "Zālēties un zalēties",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40697_lv-LV",
+        "isValid": "",
+        "suggestion": "Spēle beigusies",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40698_lv-LV",
+        "isValid": "",
+        "suggestion": "Viena cauruma",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40700_lv-LV",
+        "isValid": "",
+        "suggestion": "Tas nav manā varā",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40701_lv-LV",
+        "isValid": "",
+        "suggestion": "Atdodiet man manu valsti atpakaļ",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40702_lv-LV",
+        "isValid": "",
+        "suggestion": "U meņa dokumenti v porjadke",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40704_lv-LV",
+        "isValid": "",
+        "suggestion": "Es esmu sava veida liela lieta",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40705_lv-LV",
+        "isValid": "",
+        "suggestion": "Uz redzēšanos",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40708_lv-LV",
+        "isValid": "",
+        "suggestion": "Ripoja akmens",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40740_lv-LV",
+        "isValid": "",
+        "suggestion": "Ļauj man tevi pavadīt",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40746_lv-LV",
+        "isValid": "",
+        "suggestion": "Pilnīga izpārdošana",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40750_lv-LV",
+        "isValid": "",
+        "suggestion": "Es daru, ko gribu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40754_lv-LV",
+        "isValid": "",
+        "suggestion": "Mans otrs auto ir Porsche",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40757_lv-LV",
+        "isValid": "",
+        "suggestion": "Kur ir liellopu gaļa?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40758_lv-LV",
+        "isValid": "",
+        "suggestion": "Sveicinies ar manu mazo draugu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40759_lv-LV",
+        "isValid": "",
+        "suggestion": "Es gribu ticēt",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40760_lv-LV",
+        "isValid": "",
+        "suggestion": "Tātad tu saki, ka tāda iespēja pastāv?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40761_lv-LV",
+        "isValid": "",
+        "suggestion": "Tu papildini mani",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40762_lv-LV",
+        "isValid": "",
+        "suggestion": "Divas biļetes uz ieroču šovu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40763_lv-LV",
+        "isValid": "",
+        "suggestion": "Es esmu introverts",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40764_lv-LV",
+        "isValid": "",
+        "suggestion": "Mīli manus nīdējus!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40766_lv-LV",
+        "isValid": "",
+        "suggestion": "Neej tur!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40767_lv-LV",
+        "isValid": "",
+        "suggestion": "Atvainojiet, nepareizs numurs",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40768_lv-LV",
+        "isValid": "",
+        "suggestion": "Visa pasaules nauda",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40769_lv-LV",
+        "isValid": "",
+        "suggestion": "Un ko tālāk?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40770_lv-LV",
+        "isValid": "",
+        "suggestion": "Man nav laika atpūsties",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40771_lv-LV",
+        "isValid": "",
+        "suggestion": "Spoileris: es esmu burvīga",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40772_lv-LV",
+        "isValid": "",
+        "suggestion": "Dzīvo brīvi vai mirsti",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40773_lv-LV",
+        "isValid": "",
+        "suggestion": "Kurš baidās kutināšanas?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40774_lv-LV",
+        "isValid": "",
+        "suggestion": "Mēneša darbinieks",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40775_lv-LV",
+        "isValid": "",
+        "suggestion": "Ģēnijs darbā",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40776_lv-LV",
+        "isValid": "",
+        "suggestion": "Dusmīgs un badīgs",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40777_lv-LV",
+        "isValid": "",
+        "suggestion": "Labākais boss pasaulē",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40778_lv-LV",
+        "isValid": "",
+        "suggestion": "Vai vari to izrakt?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40779_lv-LV",
+        "isValid": "",
+        "suggestion": "Man ir problēmas",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40780_lv-LV",
+        "isValid": "",
+        "suggestion": "Pajautājiet man par maniem mazbērniem",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40782_lv-LV",
+        "isValid": "",
+        "suggestion": "Kuru daļu no \"nē\" tu nesaproti?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40783_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs nākamais prezidents",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40784_lv-LV",
+        "isValid": "",
+        "suggestion": "Atstāj mani vienu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40785_lv-LV",
+        "isValid": "",
+        "suggestion": "Ēst, dzert, čurāt...",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40786_lv-LV",
+        "isValid": "",
+        "suggestion": "Nāc dejot",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40787_lv-LV",
+        "isValid": "",
+        "suggestion": "Neuztraucies. Esi laimīgs!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40788_lv-LV",
+        "isValid": "",
+        "suggestion": "Zemes spēka vārdi",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40789_lv-LV",
+        "isValid": "",
+        "suggestion": "Beigas ir tuvu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40790_lv-LV",
+        "isValid": "",
+        "suggestion": "Cukurpunkts",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40791_lv-LV",
+        "isValid": "",
+        "suggestion": "Tu nepaiesi",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40792_lv-LV",
+        "isValid": "",
+        "suggestion": "Tas nebeigsies labi",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40794_lv-LV",
+        "isValid": "",
+        "suggestion": "Mana sirds ir brīva",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40795_lv-LV",
+        "isValid": "",
+        "suggestion": "Dzimšanas dienas apskāvieni",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40796_lv-LV",
+        "isValid": "",
+        "suggestion": "Dubultā varavīksne",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40797_lv-LV",
+        "isValid": "",
+        "suggestion": "Vairāk manis, ko mīlēt",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40800_lv-LV",
+        "isValid": "",
+        "suggestion": "Nāc ar mani, ja vēlies ballēties",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40801_lv-LV",
+        "isValid": "",
+        "suggestion": "Tas neesi tu. Tas esmu es",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40802_lv-LV",
+        "isValid": "",
+        "suggestion": "Esmu tik miegains",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40803_lv-LV",
+        "isValid": "",
+        "suggestion": "Apmuļķoja tevi!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40804_lv-LV",
+        "isValid": "",
+        "suggestion": "Kutēšana cīņa!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40805_lv-LV",
+        "isValid": "",
+        "suggestion": "Vai kāds ir redzējis manas brilles?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40806_lv-LV",
+        "isValid": "",
+        "suggestion": "Tu vari man uzticēties",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40807_lv-LV",
+        "isValid": "",
+        "suggestion": "PS Es mīlu Tevi",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40808_lv-LV",
+        "isValid": "",
+        "suggestion": "Pirksti deg",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40809_lv-LV",
+        "isValid": "",
+        "suggestion": "Tev viss izdodas!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40810_lv-LV",
+        "isValid": "",
+        "suggestion": "Ak, jā, tā ir laba lieta",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40811_lv-LV",
+        "isValid": "",
+        "suggestion": "Parādi man naudu!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40813_lv-LV",
+        "isValid": "",
+        "suggestion": "Uzticies man",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40814_lv-LV",
+        "isValid": "",
+        "suggestion": "Nošauj mani ar savu labāko šāvienu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40815_lv-LV",
+        "isValid": "",
+        "suggestion": "Es tevi vēroju",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40816_lv-LV",
+        "isValid": "",
+        "suggestion": "Es esmu tava nākamā kļūda",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40817_lv-LV",
+        "isValid": "",
+        "suggestion": "Tas būs sāpīgi",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40818_lv-LV",
+        "isValid": "",
+        "suggestion": "Tagad visi dejo!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40819_lv-LV",
+        "isValid": "",
+        "suggestion": "Daugava, Daugavpils",
+        "type": "Canned Slogan",
+        "us": true
+      },
+      {
+        "id": "40820_lv-LV",
+        "isValid": "",
+        "suggestion": "Maksā mazāk, dzīvo labāk!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40821_lv-LV",
+        "isValid": "",
+        "suggestion": "Sportosim!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40822_lv-LV",
+        "isValid": "",
+        "suggestion": "#paldiesaināram",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40823_lv-LV",
+        "isValid": "",
+        "suggestion": "Nevainojami tīrs",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40824_lv-LV",
+        "isValid": "",
+        "suggestion": "Pastāvēt",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40825_lv-LV",
+        "isValid": "",
+        "suggestion": "Laiks sulu attīrīšanai",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40826_lv-LV",
+        "isValid": "",
+        "suggestion": "Tēti, tu mani mulsini!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40827_lv-LV",
+        "isValid": "",
+        "suggestion": "Mamma saka, ka es esmu īpašs",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40828_lv-LV",
+        "isValid": "",
+        "suggestion": "Tā ir asa frikadele!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40829_lv-LV",
+        "isValid": "",
+        "suggestion": "Spīdala",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40830_lv-LV",
+        "isValid": "",
+        "suggestion": "Tev jānomierinās",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40831_lv-LV",
+        "isValid": "",
+        "suggestion": "Es jūtos tik silti un omulīgi",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40832_lv-LV",
+        "isValid": "",
+        "suggestion": "Turpini spīdēt, tu, trakais briljants!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40833_lv-LV",
+        "isValid": "",
+        "suggestion": "Atgriezties pie zīmēšanas tāfele",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40834_lv-LV",
+        "isValid": "",
+        "suggestion": "Kā tev klājas?",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40835_lv-LV",
+        "isValid": "",
+        "suggestion": "Es neesmu Džeina Fonda",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40960_lv-LV",
+        "isValid": "",
+        "suggestion": "Virzi mani uz jautrību",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "40978_lv-LV",
+        "isValid": "",
+        "suggestion": "Ja pārāk skaļi, tad tu esi pārāk vecu",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41096_lv-LV",
+        "isValid": "",
+        "suggestion": "Piektais elements...ir mīlestība.",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41208_lv-LV",
+        "isValid": "",
+        "suggestion": "Vienkārši paveicies!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41209_lv-LV",
+        "isValid": "",
+        "suggestion": "Nesaki mammai",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41210_lv-LV",
+        "isValid": "",
+        "suggestion": "Viena diena...",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41211_lv-LV",
+        "isValid": "",
+        "suggestion": "Tas ir mans tētiņš!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41212_lv-LV",
+        "isValid": "",
+        "suggestion": "LOL",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41213_lv-LV",
+        "isValid": "",
+        "suggestion": "Es tam esmu pārāk laba",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41214_lv-LV",
+        "isValid": "",
+        "suggestion": "VISLABĀKĀ. DIENA.",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41215_lv-LV",
+        "isValid": "",
+        "suggestion": "Aizver actiņas un smaidi",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41216_lv-LV",
+        "isValid": "",
+        "suggestion": "Nav mana problēma",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41217_lv-LV",
+        "isValid": "",
+        "suggestion": "KAIFS NO DZĪVES",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41218_lv-LV",
+        "isValid": "",
+        "suggestion": "Nē, paldies",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41219_lv-LV",
+        "isValid": "",
+        "suggestion": "Es esmu mīlulīte",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41220_lv-LV",
+        "isValid": "",
+        "suggestion": "Lielā nelaime",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41222_lv-LV",
+        "isValid": "",
+        "suggestion": "Piezvani man",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41223_lv-LV",
+        "isValid": "",
+        "suggestion": "Paldies par neko!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41224_lv-LV",
+        "isValid": "",
+        "suggestion": "Nobeigsim to!",
+        "type": "Canned Slogan",
+        "us": false
+      },
+      {
+        "id": "41225_lv-LV",
+        "isValid": "",
+        "suggestion": "Tagad man ir GUCCI un ir NIKE!",
+        "type": "Canned Slogan",
+        "us": false
+      }
+    ]
+  }

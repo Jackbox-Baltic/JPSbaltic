@@ -1,0 +1,2699 @@
+{
+    "content": [
+        {
+        "id": "40175_lv-LV",
+        "isValid": "",
+        "suggestion": "Romantisks cilvēks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40178_lv-LV",
+        "isValid": "",
+        "suggestion": "Dzīve zem ūdens",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40179_lv-LV",
+        "isValid": "",
+        "suggestion": "Satriecošs mājdzīvnieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40180_lv-LV",
+        "isValid": "",
+        "suggestion": "Rīcības filmu aina",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40182_lv-LV",
+        "isValid": "",
+        "suggestion": "ideāla atpūtas vieta",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40183_lv-LV",
+        "isValid": "",
+        "suggestion": "Noziedzīga darbība",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40184_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs mīļākais atlēts",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40186_lv-LV",
+        "isValid": "",
+        "suggestion": "Pēdējo 100 gadu vēsturiska personība",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40187_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs sapņu darbs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40188_lv-LV",
+        "isValid": "",
+        "suggestion": "Kā tev patīk atpūsties",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40189_lv-LV",
+        "isValid": "",
+        "suggestion": "Patiešām karsta vieta",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40190_lv-LV",
+        "isValid": "",
+        "suggestion": "Patiešām auksta vieta",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40194_lv-LV",
+        "isValid": "",
+        "suggestion": "Izmiris dzīvnieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40195_lv-LV",
+        "isValid": "",
+        "suggestion": "Kaut kas, kas nav no Zemes",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40196_lv-LV",
+        "isValid": "",
+        "suggestion": "Kā bagāts cilvēks tērē naudu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40197_lv-LV",
+        "isValid": "",
+        "suggestion": "Draņķīga dzīvesvieta",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40200_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds no Eiropas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40202_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs mīļākais mitoloģiskā būtne",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40210_lv-LV",
+        "isValid": "",
+        "suggestion": "Raimonds Pauls jaunībā",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40211_lv-LV",
+        "isValid": "",
+        "suggestion": "Ļoti salds našķis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40212_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs lielākais varonis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40213_lv-LV",
+        "isValid": "",
+        "suggestion": "Tava parastā ikdienas rutīna",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40214_lv-LV",
+        "isValid": "",
+        "suggestion": "Slavena persona, kas dara kaut ko foršu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40215_lv-LV",
+        "isValid": "",
+        "suggestion": "Zieds ar slavenības seju",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40216_lv-LV",
+        "isValid": "",
+        "suggestion": "Dzīve citā planētā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40217_lv-LV",
+        "isValid": "",
+        "suggestion": "Sejas izteiksme, ja satiktu Laimu Vaikuli",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40218_lv-LV",
+        "isValid": "",
+        "suggestion": "Kads tiek atlaiss no darba",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40219_lv-LV",
+        "isValid": "",
+        "suggestion": "Patiešām biedējoša seja",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40220_lv-LV",
+        "isValid": "",
+        "suggestion": "Pasaules gals",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40221_lv-LV",
+        "isValid": "",
+        "suggestion": "Kā jūs piesaistītu potenciālo partneri",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40222_lv-LV",
+        "isValid": "",
+        "suggestion": "Cilvēks pret dabu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40223_lv-LV",
+        "isValid": "",
+        "suggestion": "Dzīvnieki apprecas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40224_lv-LV",
+        "isValid": "",
+        "suggestion": "Televīzijas raidījums bērniem",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40225_lv-LV",
+        "isValid": "",
+        "suggestion": "Īsts grūts puisis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40226_lv-LV",
+        "isValid": "",
+        "suggestion": "Daži zinātnieki",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40227_lv-LV",
+        "isValid": "",
+        "suggestion": "Grieķu dievs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40228_lv-LV",
+        "isValid": "",
+        "suggestion": "Franču cilvēks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40229_lv-LV",
+        "isValid": "",
+        "suggestion": "Persona no 1930. gadiem",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40230_lv-LV",
+        "isValid": "",
+        "suggestion": "Patiešām gudrs cilvēks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40231_lv-LV",
+        "isValid": "",
+        "suggestion": "Patiešām stulbs cilvēks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40232_lv-LV",
+        "isValid": "",
+        "suggestion": "Patiešām karsts cilvēks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40233_lv-LV",
+        "isValid": "",
+        "suggestion": "Dusmas uz ceļa",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40235_lv-LV",
+        "isValid": "",
+        "suggestion": "Izrāde, kas saiet sviestā",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40236_lv-LV",
+        "isValid": "",
+        "suggestion": "Ļoti parocīgs cilvēks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40237_lv-LV",
+        "isValid": "",
+        "suggestion": "Ļoti ziņkārīga persona",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40238_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds, kurš mīl ēdienu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40239_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds no Kurzemes",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40240_lv-LV",
+        "isValid": "",
+        "suggestion": "Aina no dvēseļu putenis",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40241_lv-LV",
+        "isValid": "",
+        "suggestion": "Romantiska komēdija",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40242_lv-LV",
+        "isValid": "",
+        "suggestion": "Slikts cilvēks, ar kuru nevar sēdēt lidmašīnā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40243_lv-LV",
+        "isValid": "",
+        "suggestion": "Dzīvnieki cenšas būt forši",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40244_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds ar lielu ķermeņa daļu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40245_lv-LV",
+        "isValid": "",
+        "suggestion": "Ļoti gudrs dzīvnieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40246_lv-LV",
+        "isValid": "",
+        "suggestion": "Ļoti smirdīgs darbs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40247_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds, kam nevajadzētu uzticēties",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40248_lv-LV",
+        "isValid": "",
+        "suggestion": "Drosmīgs okeāna dzīvnieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40250_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds, kurš ļoti steidzas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40251_lv-LV",
+        "isValid": "",
+        "suggestion": "Briesmīgs mājdzīvnieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40252_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs mīļākais multfilmu varonis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40253_lv-LV",
+        "isValid": "",
+        "suggestion": "Sērijveida slepkava",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40254_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds no 1800. gadiem",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40255_lv-LV",
+        "isValid": "",
+        "suggestion": "Ļoti slims cilvēks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40256_lv-LV",
+        "isValid": "",
+        "suggestion": "Spīdīga superzvaigzne",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40257_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs vismazāk mīļākais mūziķis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40258_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs mīļākais fantastikas tēls",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40259_lv-LV",
+        "isValid": "",
+        "suggestion": "Ļauns dzīvnieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40260_lv-LV",
+        "isValid": "",
+        "suggestion": "Aina no Bībeles",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40262_lv-LV",
+        "isValid": "",
+        "suggestion": "Slavens mākslas darbs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40263_lv-LV",
+        "isValid": "",
+        "suggestion": "Ģimenes foto",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40265_lv-LV",
+        "isValid": "",
+        "suggestion": "Persona, kuru tu nevari ciest",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40266_lv-LV",
+        "isValid": "",
+        "suggestion": "Par ko tu gribēji kļūt bērnībā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40267_lv-LV",
+        "isValid": "",
+        "suggestion": "Halovīna tērps, ko tu valkāji",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40269_lv-LV",
+        "isValid": "",
+        "suggestion": "Āfrikas dzīvnieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40270_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs mīļākais monstrs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40272_lv-LV",
+        "isValid": "",
+        "suggestion": "Ļoti stilīgs transportlīdzeklis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40273_lv-LV",
+        "isValid": "",
+        "suggestion": "Aizvēsturiskā dzīve",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40275_lv-LV",
+        "isValid": "",
+        "suggestion": "Ļoti nopietns cilvēks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40276_lv-LV",
+        "isValid": "",
+        "suggestion": "Cilvēki, kuri mīl sportu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40277_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds, kam ir daudz naudas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40278_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds no Rēzeknes",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40279_lv-LV",
+        "isValid": "",
+        "suggestion": "Kā tu gribētu izskatīties vecumdienās",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40280_lv-LV",
+        "isValid": "",
+        "suggestion": "Mīlīgākais dzīvnieku mazulis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40281_lv-LV",
+        "isValid": "",
+        "suggestion": "Kaut kas, ko tu negribētu redzēt rāpojošo uz tevi",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40283_lv-LV",
+        "isValid": "",
+        "suggestion": "Ko tu vari redzēt no rīta",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40284_lv-LV",
+        "isValid": "",
+        "suggestion": "Kaut kas, ko tu vari redzēt ceļojuma laikā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40286_lv-LV",
+        "isValid": "",
+        "suggestion": "Slavenība kā mazulis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40287_lv-LV",
+        "isValid": "",
+        "suggestion": "Ļoti patriotiska persona",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40289_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds gatavs cīņai",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40290_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds, kurš varētu sagaidīt dzeramnaudu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40291_lv-LV",
+        "isValid": "",
+        "suggestion": "Persona ar sliktu modes izjūtu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40292_lv-LV",
+        "isValid": "",
+        "suggestion": "Komiksu tēls",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40293_lv-LV",
+        "isValid": "",
+        "suggestion": "Šausmu filmas tēls",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40294_lv-LV",
+        "isValid": "",
+        "suggestion": "Slikta auklīte",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40296_lv-LV",
+        "isValid": "",
+        "suggestion": "Vieta, kuru tu patiešām gribi redzēt",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40298_lv-LV",
+        "isValid": "",
+        "suggestion": "Kaut kas skaists no dabas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40299_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds, kuram ir slikta diena",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40300_lv-LV",
+        "isValid": "",
+        "suggestion": "Ļoti veiksmīgs cilvēks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40301_lv-LV",
+        "isValid": "",
+        "suggestion": "Kādi cilvēki izskatīsies nākotnē",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40302_lv-LV",
+        "isValid": "",
+        "suggestion": "Patiesi lipīgs cilvēks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40303_lv-LV",
+        "isValid": "",
+        "suggestion": "Kā pavadīt savu vasaras atvaļinājumu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40304_lv-LV",
+        "isValid": "",
+        "suggestion": "Persona ar ļoti sarežģītu darbu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40306_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds, kuram ir slikta attieksme",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40307_lv-LV",
+        "isValid": "",
+        "suggestion": "Cilvēks, kuru var redzēt cirkā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40363_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs mīļākais suņu veids",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40365_lv-LV",
+        "isValid": "",
+        "suggestion": "Nākotne",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40368_lv-LV",
+        "isValid": "",
+        "suggestion": "Stilīgs dinozaurs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40369_lv-LV",
+        "isValid": "",
+        "suggestion": "Spocīga ballīte",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40370_lv-LV",
+        "isValid": "",
+        "suggestion": "Apmulsis citplanētietis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40371_lv-LV",
+        "isValid": "",
+        "suggestion": "Kaut kas mačo tipa",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40373_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds ir patiešām melodramatisks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40374_lv-LV",
+        "isValid": "",
+        "suggestion": "Slavenību galvas attēls ",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40375_lv-LV",
+        "isValid": "",
+        "suggestion": "Latgalietis",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40377_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs sapņu auto",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40378_lv-LV",
+        "isValid": "",
+        "suggestion": "Dzīve cietumā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40379_lv-LV",
+        "isValid": "",
+        "suggestion": "Dusmīgs tiesnesis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40380_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs vismazāk mīļākais skolotājs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40382_lv-LV",
+        "isValid": "",
+        "suggestion": "Kaut kas vardarbīgs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40383_lv-LV",
+        "isValid": "",
+        "suggestion": "Sapnis, kas tev bieži rādās",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40384_lv-LV",
+        "isValid": "",
+        "suggestion": "Tas, kas liek tev raudāt",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40386_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds no kosmosa",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40387_lv-LV",
+        "isValid": "",
+        "suggestion": "Civildienesta ierēdnis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40388_lv-LV",
+        "isValid": "",
+        "suggestion": "Viltota persona",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40389_lv-LV",
+        "isValid": "",
+        "suggestion": "Ceļošana laikā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40390_lv-LV",
+        "isValid": "",
+        "suggestion": "Vecs mājdzīvnieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40391_lv-LV",
+        "isValid": "",
+        "suggestion": "Bankas aplaupīšana",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40392_lv-LV",
+        "isValid": "",
+        "suggestion": "Smadzeņu sasalšana",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40393_lv-LV",
+        "isValid": "",
+        "suggestion": "Biedējoši bērni",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40395_lv-LV",
+        "isValid": "",
+        "suggestion": "Laulības",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40398_lv-LV",
+        "isValid": "",
+        "suggestion": "Lieliska atpūta ārpus telpām",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40399_lv-LV",
+        "isValid": "",
+        "suggestion": "Brīvība",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40400_lv-LV",
+        "isValid": "",
+        "suggestion": "Nogarlaikojies darba vietā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40401_lv-LV",
+        "isValid": "",
+        "suggestion": "Strādnieku šķira",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40411_lv-LV",
+        "isValid": "",
+        "suggestion": "Parīze, Francija",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40412_lv-LV",
+        "isValid": "",
+        "suggestion": "Pankroks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40413_lv-LV",
+        "isValid": "",
+        "suggestion": "Vidusskola",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40414_lv-LV",
+        "isValid": "",
+        "suggestion": "Vienotība ar dabu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40415_lv-LV",
+        "isValid": "",
+        "suggestion": "Plāno atriebību",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40416_lv-LV",
+        "isValid": "",
+        "suggestion": "Augstākā līmeņa cīņa",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40417_lv-LV",
+        "isValid": "",
+        "suggestion": "Ģērbšanās",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40418_lv-LV",
+        "isValid": "",
+        "suggestion": "Melnā piektdiena",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40419_lv-LV",
+        "isValid": "",
+        "suggestion": "Piena, maizes un medus svētki",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40421_lv-LV",
+        "isValid": "",
+        "suggestion": "Mūžam saule debesīs",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40422_lv-LV",
+        "isValid": "",
+        "suggestion": "Eksorcisms",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40423_lv-LV",
+        "isValid": "",
+        "suggestion": "Skumjš vampīrs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40424_lv-LV",
+        "isValid": "",
+        "suggestion": "Bada lēkmes",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40425_lv-LV",
+        "isValid": "",
+        "suggestion": "Spīdīgas gaismas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40426_lv-LV",
+        "isValid": "",
+        "suggestion": "Super Spiegs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40427_lv-LV",
+        "isValid": "",
+        "suggestion": "Vasaras nometne",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40429_lv-LV",
+        "isValid": "",
+        "suggestion": "Motociklistu bandas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40430_lv-LV",
+        "isValid": "",
+        "suggestion": "Hipiji",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40431_lv-LV",
+        "isValid": "",
+        "suggestion": "Laucinieki",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40432_lv-LV",
+        "isValid": "",
+        "suggestion": "Speleotūrisms",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40436_lv-LV",
+        "isValid": "",
+        "suggestion": "Kurkuļi",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40437_lv-LV",
+        "isValid": "",
+        "suggestion": "NLO novērošana",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40438_lv-LV",
+        "isValid": "",
+        "suggestion": "Svešinieku nolaupīšana",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40440_lv-LV",
+        "isValid": "",
+        "suggestion": "Gudrs briesmonis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40441_lv-LV",
+        "isValid": "",
+        "suggestion": "Noslēpumains vīrs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40442_lv-LV",
+        "isValid": "",
+        "suggestion": "Kaut kas bezkaunīgs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40443_lv-LV",
+        "isValid": "",
+        "suggestion": "Plakāts, kas tev ir bija uz sienas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40444_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs mīļākais mūziķis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40445_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs vaļasprieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40446_lv-LV",
+        "isValid": "",
+        "suggestion": "Ekstremāls sporta veids",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40448_lv-LV",
+        "isValid": "",
+        "suggestion": "Neveikls pusaudzis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40449_lv-LV",
+        "isValid": "",
+        "suggestion": "Romantiska ainava",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40451_lv-LV",
+        "isValid": "",
+        "suggestion": "Singapūras Satīna fani",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40452_lv-LV",
+        "isValid": "",
+        "suggestion": "Negodīga cīņa",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40454_lv-LV",
+        "isValid": "",
+        "suggestion": "Lielie muļķi",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40455_lv-LV",
+        "isValid": "",
+        "suggestion": "Fantastikas filmas varonis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40456_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavas mīļākās grāmatas vāks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40457_lv-LV",
+        "isValid": "",
+        "suggestion": "Slikti izgatavota lelle",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40458_lv-LV",
+        "isValid": "",
+        "suggestion": "Antropomorfizēta karote",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40459_lv-LV",
+        "isValid": "",
+        "suggestion": "Ātrās ēdināšanas darbinieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40460_lv-LV",
+        "isValid": "",
+        "suggestion": "Stulbs izskatās zivs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40461_lv-LV",
+        "isValid": "",
+        "suggestion": "Draņķa romāna vāks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40462_lv-LV",
+        "isValid": "",
+        "suggestion": "Pusmūža krīze",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40463_lv-LV",
+        "isValid": "",
+        "suggestion": "Satraukta mamma",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40464_lv-LV",
+        "isValid": "",
+        "suggestion": "Liels, stulbs sportists",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40465_lv-LV",
+        "isValid": "",
+        "suggestion": "Puisis ar intensīvu skatienu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40466_lv-LV",
+        "isValid": "",
+        "suggestion": "Cilvēks ar mazām rokām",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40467_lv-LV",
+        "isValid": "",
+        "suggestion": "Vīrietis ar milzīgu galvu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40468_lv-LV",
+        "isValid": "",
+        "suggestion": "Kaut kas smakojošs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40470_lv-LV",
+        "isValid": "",
+        "suggestion": "Profesionāls cīkstonis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40471_lv-LV",
+        "isValid": "",
+        "suggestion": "Ekscentrisks miljardieris",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40472_lv-LV",
+        "isValid": "",
+        "suggestion": "Tava laimīgā vieta",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40473_lv-LV",
+        "isValid": "",
+        "suggestion": "Postapokaliptiskā Zeme",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40488_lv-LV",
+        "isValid": "",
+        "suggestion": "Debešķīgs saulriets",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40489_lv-LV",
+        "isValid": "",
+        "suggestion": "Slavena laiva",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40490_lv-LV",
+        "isValid": "",
+        "suggestion": "Letuvietis ",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40491_lv-LV",
+        "isValid": "",
+        "suggestion": "Slikts nindzja",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40492_lv-LV",
+        "isValid": "",
+        "suggestion": "Ēdiens, kas tev izraisa nelabumu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40493_lv-LV",
+        "isValid": "",
+        "suggestion": "Valzirgs ar cilvēku zobiem",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40494_lv-LV",
+        "isValid": "",
+        "suggestion": "ideāls hamburgers",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40495_lv-LV",
+        "isValid": "",
+        "suggestion": "90. gadu puika",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40496_lv-LV",
+        "isValid": "",
+        "suggestion": "Aizgājušā laikmeta aina",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40497_lv-LV",
+        "isValid": "",
+        "suggestion": "Alas cilvēka māksla",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40498_lv-LV",
+        "isValid": "",
+        "suggestion": "Attēls no Otrā pasaules kara",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40499_lv-LV",
+        "isValid": "",
+        "suggestion": "Progresīvā matemātiskā formula",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40500_lv-LV",
+        "isValid": "",
+        "suggestion": "Videospēles tēls, kuru tu mīli",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40501_lv-LV",
+        "isValid": "",
+        "suggestion": "Tava mīļākā albuma vāks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40502_lv-LV",
+        "isValid": "",
+        "suggestion": "Lieliska vieta nometnēm",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40503_lv-LV",
+        "isValid": "",
+        "suggestion": "Patiesi mierīga vieta",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40504_lv-LV",
+        "isValid": "",
+        "suggestion": "Olimpiskais pasākums",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40505_lv-LV",
+        "isValid": "",
+        "suggestion": "Filmas tēls, kuru tu ienīsti",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40506_lv-LV",
+        "isValid": "",
+        "suggestion": "Persona, ar kuru tu satiksies debesīs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40507_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs mīļākais spēļu šovs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40508_lv-LV",
+        "isValid": "",
+        "suggestion": "Slikts suns!",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40509_lv-LV",
+        "isValid": "",
+        "suggestion": "Tu parastā piektdienas vakarā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40510_lv-LV",
+        "isValid": "",
+        "suggestion": "Latvijas politika",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40511_lv-LV",
+        "isValid": "",
+        "suggestion": "Labākā dāvana, ko esat jebkad saņēmis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40512_lv-LV",
+        "isValid": "",
+        "suggestion": "Tava bērnu guļamistaba",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40514_lv-LV",
+        "isValid": "",
+        "suggestion": "Kaut kas haotisks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40516_lv-LV",
+        "isValid": "",
+        "suggestion": "Kaut kas patiešām mīlīgs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40517_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs pirmais darbs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40519_lv-LV",
+        "isValid": "",
+        "suggestion": "Urla jeb gopņiks",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "40520_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs tēvs brīvdienās",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40521_lv-LV",
+        "isValid": "",
+        "suggestion": "Rokmūzikas leģenda",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40522_lv-LV",
+        "isValid": "",
+        "suggestion": "Sniega diena",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40523_lv-LV",
+        "isValid": "",
+        "suggestion": "Kaut kas tāds, kas izraisa panikas lēkmi",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "40958_lv-LV",
+        "isValid": "",
+        "suggestion": "Tava bērnības simpātija",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41005_lv-LV",
+        "isValid": "",
+        "suggestion": "kaut kas Ziemassvētku",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41006_lv-LV",
+        "isValid": "",
+        "suggestion": "krāšņa ballīte",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41010_lv-LV",
+        "isValid": "",
+        "suggestion": "80. gadu slēpošanas filmas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41013_lv-LV",
+        "isValid": "",
+        "suggestion": "riepu centru puisis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41015_lv-LV",
+        "isValid": "",
+        "suggestion": "vidusskolu skolotāji",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41048_lv-LV",
+        "isValid": "",
+        "suggestion": "80. gadu matu grupa",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41050_lv-LV",
+        "isValid": "",
+        "suggestion": "vidējais bērns",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41052_lv-LV",
+        "isValid": "",
+        "suggestion": "kāds ar plastisko ķirurģiju",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41053_lv-LV",
+        "isValid": "",
+        "suggestion": "dusmīgs pūlis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41055_lv-LV",
+        "isValid": "",
+        "suggestion": "mežonīgie rietumi",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41056_lv-LV",
+        "isValid": "",
+        "suggestion": "viduslaiki",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41063_lv-LV",
+        "isValid": "",
+        "suggestion": "vecpuišu ballīte",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41065_lv-LV",
+        "isValid": "",
+        "suggestion": "hotdogu ēšanas konkurss",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41069_lv-LV",
+        "isValid": "",
+        "suggestion": "laimīgs piegādes puisis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41075_lv-LV",
+        "isValid": "",
+        "suggestion": "hula dejošana",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41076_lv-LV",
+        "isValid": "",
+        "suggestion": "astronauts panikā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41077_lv-LV",
+        "isValid": "",
+        "suggestion": "biedējošs sniegavīrs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41078_lv-LV",
+        "isValid": "",
+        "suggestion": "robots kalpone",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41079_lv-LV",
+        "isValid": "",
+        "suggestion": "gudrinieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41156_lv-LV",
+        "isValid": "",
+        "suggestion": "asiņojošas acis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41159_lv-LV",
+        "isValid": "",
+        "suggestion": "delfīnu dresētājs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41160_lv-LV",
+        "isValid": "",
+        "suggestion": "priekšpilsētas tēvs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41162_lv-LV",
+        "isValid": "",
+        "suggestion": "ieslodzīts cietumā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41163_lv-LV",
+        "isValid": "",
+        "suggestion": "galvas utis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41165_lv-LV",
+        "isValid": "",
+        "suggestion": "Tarzāns",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41167_lv-LV",
+        "isValid": "",
+        "suggestion": "jogas nodarbība",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41168_lv-LV",
+        "isValid": "",
+        "suggestion": "deju konkurss",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41169_lv-LV",
+        "isValid": "",
+        "suggestion": "ļauns kaķis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41170_lv-LV",
+        "isValid": "",
+        "suggestion": "vaicāt pēc norādēm",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41171_lv-LV",
+        "isValid": "",
+        "suggestion": "mērkaķis ar parūku",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41172_lv-LV",
+        "isValid": "",
+        "suggestion": "cūka kleitā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41175_lv-LV",
+        "isValid": "",
+        "suggestion": "dziedošs kovbojs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41176_lv-LV",
+        "isValid": "",
+        "suggestion": "brīvības skulptūra",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "41177_lv-LV",
+        "isValid": "",
+        "suggestion": "zeltmatīte un trīs lāči",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41178_lv-LV",
+        "isValid": "",
+        "suggestion": "vecmeitu ballīte",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41179_lv-LV",
+        "isValid": "",
+        "suggestion": "dejojošs skelets",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41181_lv-LV",
+        "isValid": "",
+        "suggestion": "futbola sitiens ar galvu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41182_lv-LV",
+        "isValid": "",
+        "suggestion": "haizivs uzbrukums",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41183_lv-LV",
+        "isValid": "",
+        "suggestion": "vīriešu evolūcija",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41184_lv-LV",
+        "isValid": "",
+        "suggestion": "izjādē ar ziloni",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41185_lv-LV",
+        "isValid": "",
+        "suggestion": "kaķu un suņu lietus",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41186_lv-LV",
+        "isValid": "",
+        "suggestion": "ledus dejas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41188_lv-LV",
+        "isValid": "",
+        "suggestion": "bagāts puisis kabrioletā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41191_lv-LV",
+        "isValid": "",
+        "suggestion": "robots Jānis Čakste",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "41198_lv-LV",
+        "isValid": "",
+        "suggestion": "Zevs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41199_lv-LV",
+        "isValid": "",
+        "suggestion": "asinskārs pingvīns",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41200_lv-LV",
+        "isValid": "",
+        "suggestion": "laimīgs dinozaurs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41201_lv-LV",
+        "isValid": "",
+        "suggestion": "nokautēts bokseris",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41202_lv-LV",
+        "isValid": "",
+        "suggestion": "virtuālās realitātes ķivere",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41203_lv-LV",
+        "isValid": "",
+        "suggestion": "noķert sauli",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41204_lv-LV",
+        "isValid": "",
+        "suggestion": "kāzu deja",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41206_lv-LV",
+        "isValid": "",
+        "suggestion": "cīņa ar aizsargu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41207_lv-LV",
+        "isValid": "",
+        "suggestion": "neģēlīgs vikings",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41226_lv-LV",
+        "isValid": "",
+        "suggestion": "Spēle, ko spēlēji bērnībā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41227_lv-LV",
+        "isValid": "",
+        "suggestion": "Kaut kas pretīgs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41228_lv-LV",
+        "isValid": "",
+        "suggestion": "Tavs vismazāk mīļākais radinieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41229_lv-LV",
+        "isValid": "",
+        "suggestion": "Murgs, kas tev ir bijis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41230_lv-LV",
+        "isValid": "",
+        "suggestion": "Kāds telpā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41231_lv-LV",
+        "isValid": "",
+        "suggestion": "Garlaicīgs randiņš",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41232_lv-LV",
+        "isValid": "",
+        "suggestion": "nepieklājīgs viesmīlis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41233_lv-LV",
+        "isValid": "",
+        "suggestion": "dusmīga balerīna",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41239_lv-LV",
+        "isValid": "",
+        "suggestion": "profesors",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41240_lv-LV",
+        "isValid": "",
+        "suggestion": "krītoša zvaigzne",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41241_lv-LV",
+        "isValid": "",
+        "suggestion": "kāds jāj uz mehāniskā vērša",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41243_lv-LV",
+        "isValid": "",
+        "suggestion": "burtošanas čempionāts",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41244_lv-LV",
+        "isValid": "",
+        "suggestion": "torpēdas palaišana",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41245_lv-LV",
+        "isValid": "",
+        "suggestion": "žvingulis",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "41246_lv-LV",
+        "isValid": "",
+        "suggestion": "Herkuless",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41251_lv-LV",
+        "isValid": "",
+        "suggestion": "virves dejotājs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41255_lv-LV",
+        "isValid": "",
+        "suggestion": "koala",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41259_lv-LV",
+        "isValid": "",
+        "suggestion": "burvju vienradzis brauciens",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41262_lv-LV",
+        "isValid": "",
+        "suggestion": "apskāviens",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41264_lv-LV",
+        "isValid": "",
+        "suggestion": "truša izvilkšana no cepures",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41265_lv-LV",
+        "isValid": "",
+        "suggestion": "samurajs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41266_lv-LV",
+        "isValid": "",
+        "suggestion": "viena cilvēka grupa",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41267_lv-LV",
+        "isValid": "",
+        "suggestion": "Skandāls Latvijas modes",
+        "type": "Drawing Suggestion",
+        "us": false
+        },
+        {
+        "id": "41268_lv-LV",
+        "isValid": "",
+        "suggestion": "ķirurgs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41270_lv-LV",
+        "isValid": "",
+        "suggestion": "spokaina māja",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41271_lv-LV",
+        "isValid": "",
+        "suggestion": "episka cīņa",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41272_lv-LV",
+        "isValid": "",
+        "suggestion": "kāds no nākotnes",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41275_lv-LV",
+        "isValid": "",
+        "suggestion": "tavs mīļākais ēdiens",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41279_lv-LV",
+        "isValid": "",
+        "suggestion": "iestrēdzis tuksnesī",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41280_lv-LV",
+        "isValid": "",
+        "suggestion": "jūras spēki",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41281_lv-LV",
+        "isValid": "",
+        "suggestion": "spa diena",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41282_lv-LV",
+        "isValid": "",
+        "suggestion": "drēbes, kas neder",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41283_lv-LV",
+        "isValid": "",
+        "suggestion": "noziedzīga darbība",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41285_lv-LV",
+        "isValid": "",
+        "suggestion": "jūras kapteinis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41286_lv-LV",
+        "isValid": "",
+        "suggestion": "pokera spēlētājs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41287_lv-LV",
+        "isValid": "",
+        "suggestion": "tavs bērnības varonis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41288_lv-LV",
+        "isValid": "",
+        "suggestion": "izpildījuma dzīvnieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41291_lv-LV",
+        "isValid": "",
+        "suggestion": "tavs mīļākais realitātes šovs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41292_lv-LV",
+        "isValid": "",
+        "suggestion": "Sejas apmatojums",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41293_lv-LV",
+        "isValid": "",
+        "suggestion": "atgriezies no mirušajiem",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41294_lv-LV",
+        "isValid": "",
+        "suggestion": "iespaidīgs vieglatlētikas sniegums",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41295_lv-LV",
+        "isValid": "",
+        "suggestion": "aiz restēm",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41299_lv-LV",
+        "isValid": "",
+        "suggestion": "lielisks kaskadieris",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41304_lv-LV",
+        "isValid": "",
+        "suggestion": "boulinga čempions",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41306_lv-LV",
+        "isValid": "",
+        "suggestion": "abstraktā māksla",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41307_lv-LV",
+        "isValid": "",
+        "suggestion": "apsēstā lelle",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41308_lv-LV",
+        "isValid": "",
+        "suggestion": "brīnums",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41404_lv-LV",
+        "isValid": "",
+        "suggestion": "dzīvnieks, kas risina noziegumus",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41405_lv-LV",
+        "isValid": "",
+        "suggestion": "koks, kas audzē to, kas nav jāaudzē",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41406_lv-LV",
+        "isValid": "",
+        "suggestion": "kāds ar blūzu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41407_lv-LV",
+        "isValid": "",
+        "suggestion": "aktivitātes pludmalē",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41408_lv-LV",
+        "isValid": "",
+        "suggestion": "tava mīļākā aukstā laika dzīvnieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41409_lv-LV",
+        "isValid": "",
+        "suggestion": "divi sporta veidi sajaukti kopā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41410_lv-LV",
+        "isValid": "",
+        "suggestion": "kāds ēd kaut ko ļoti lielu",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41411_lv-LV",
+        "isValid": "",
+        "suggestion": "ļoti latgaliešu cilvēks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41412_lv-LV",
+        "isValid": "",
+        "suggestion": "netīrs, netīrs darbs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41414_lv-LV",
+        "isValid": "",
+        "suggestion": "persona, kas dara sliktas, sliktas lietas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41416_lv-LV",
+        "isValid": "",
+        "suggestion": "veco desmitgadi, kuru tu vēlies apmeklēt",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41418_lv-LV",
+        "isValid": "",
+        "suggestion": "ballītes dzīve",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41419_lv-LV",
+        "isValid": "",
+        "suggestion": "ģimenes atvaļinājums",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41424_lv-LV",
+        "isValid": "",
+        "suggestion": "dzīvnieku sacelšanās",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41427_lv-LV",
+        "isValid": "",
+        "suggestion": "aina no vecas filmas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41428_lv-LV",
+        "isValid": "",
+        "suggestion": "sliktākais bērns",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41430_lv-LV",
+        "isValid": "",
+        "suggestion": "tavs mīļākais vaļasprieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41431_lv-LV",
+        "isValid": "",
+        "suggestion": "īsts lūzeris",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41432_lv-LV",
+        "isValid": "",
+        "suggestion": "īsts viltīgs cilvēks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41433_lv-LV",
+        "isValid": "",
+        "suggestion": "tava mīļākā izdomātā zeme",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41434_lv-LV",
+        "isValid": "",
+        "suggestion": "dvēseles pārdošana",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41435_lv-LV",
+        "isValid": "",
+        "suggestion": "kosmosa nometne",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41436_lv-LV",
+        "isValid": "",
+        "suggestion": "milži izklaidējas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41437_lv-LV",
+        "isValid": "",
+        "suggestion": "pasakas tēls",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41438_lv-LV",
+        "isValid": "",
+        "suggestion": "briesmīgs burvis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41439_lv-LV",
+        "isValid": "",
+        "suggestion": "apgrūtinošā situācijā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41441_lv-LV",
+        "isValid": "",
+        "suggestion": "robotu zīdaiņi",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41442_lv-LV",
+        "isValid": "",
+        "suggestion": "romantika nākotnē",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41443_lv-LV",
+        "isValid": "",
+        "suggestion": "sabojāt dzimšanas dienas ballīti",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41446_lv-LV",
+        "isValid": "",
+        "suggestion": "zemes centrs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41448_lv-LV",
+        "isValid": "",
+        "suggestion": "plakāts, ko var redzēt kopmītnes istabā",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41449_lv-LV",
+        "isValid": "",
+        "suggestion": "dīvaina pārtikas piegāde",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41450_lv-LV",
+        "isValid": "",
+        "suggestion": "dīvaina parāde",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41452_lv-LV",
+        "isValid": "",
+        "suggestion": "tēva un dēla saikne",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41455_lv-LV",
+        "isValid": "",
+        "suggestion": "prankeri",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41456_lv-LV",
+        "isValid": "",
+        "suggestion": "bezsmadzeņu karalis",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41457_lv-LV",
+        "isValid": "",
+        "suggestion": "tavs garšīgākais ēdiens",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41459_lv-LV",
+        "isValid": "",
+        "suggestion": "lielisks dejotājs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41460_lv-LV",
+        "isValid": "",
+        "suggestion": "slepenais dārzs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41467_lv-LV",
+        "isValid": "",
+        "suggestion": "pilsoņu kara rekonstrukcija",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "41468_lv-LV",
+        "isValid": "",
+        "suggestion": "mājupceļš",
+        "type": "Drawing suggestion",
+        "us": true
+        },
+        {
+        "id": "41547_lv-LV",
+        "isValid": "",
+        "suggestion": "pārstrāde",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41548_lv-LV",
+        "isValid": "",
+        "suggestion": "kārumnieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41549_lv-LV",
+        "isValid": "",
+        "suggestion": "zobena iemaņas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41550_lv-LV",
+        "isValid": "",
+        "suggestion": "barības ķēde",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41552_lv-LV",
+        "isValid": "",
+        "suggestion": "vasaras prieks",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41556_lv-LV",
+        "isValid": "",
+        "suggestion": "pusaudžu bailes",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41558_lv-LV",
+        "isValid": "",
+        "suggestion": "maģiskais mežs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41559_lv-LV",
+        "isValid": "",
+        "suggestion": "maģiskā auklīte",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41560_lv-LV",
+        "isValid": "",
+        "suggestion": "bīstamā okupācija",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41562_lv-LV",
+        "isValid": "",
+        "suggestion": "izskatās negants",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41564_lv-LV",
+        "isValid": "",
+        "suggestion": "iedomātais draugs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41568_lv-LV",
+        "isValid": "",
+        "suggestion": "ģitāras solo",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41569_lv-LV",
+        "isValid": "",
+        "suggestion": "pidžamu ballīte",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41571_lv-LV",
+        "isValid": "",
+        "suggestion": "laba mutes higiēna",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41573_lv-LV",
+        "isValid": "",
+        "suggestion": "tumšie laikmeti",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41574_lv-LV",
+        "isValid": "",
+        "suggestion": "pilsētas dzīve",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41575_lv-LV",
+        "isValid": "",
+        "suggestion": "90. gadi",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41580_lv-LV",
+        "isValid": "",
+        "suggestion": "parādi, uz ko esi spējīgs",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41581_lv-LV",
+        "isValid": "",
+        "suggestion": "māksla un amatniecība",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41585_lv-LV",
+        "isValid": "",
+        "suggestion": "slinkās dienas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41587_lv-LV",
+        "isValid": "",
+        "suggestion": "vēsas pēdas",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41590_lv-LV",
+        "isValid": "",
+        "suggestion": "baktēriju karš",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41594_lv-LV",
+        "isValid": "",
+        "suggestion": "zubrītāju dzīve",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41595_lv-LV",
+        "isValid": "",
+        "suggestion": "pārsteidzoša superspēja",
+        "type": "Drawing suggestion",
+        "us": false
+        },
+        {
+        "id": "41596_lv-LV",
+        "isValid": "",
+        "suggestion": "mākslīgais intelekts",
+        "type": "Drawing suggestion",
+        "us": false
+        }
+    ]
+}
